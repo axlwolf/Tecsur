@@ -1,0 +1,5 @@
+<article class="intro">
+	<h2>Lorem ipsum.</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, inventore, temporibus. Vel, quaerat, saepe asperiores cumque doloremque ratione doloribus nobis ipsam fugit maxime laborum aut excepturi nostrum suscipit officia minus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet, perspiciatis, autem quaerat unde culpa quos repellendus quidem nostrum doloremque esse modi officia minus asperiores debitis excepturi nulla adipisci eius impedit!</p>
+	<p class="hidden-sm">Nemo suscipit ipsam fugiat consequatur earum saepe eos ut commodi laborum maiores. Ea, modi officiis iste ab eveniet vel amet omnis repellendus cum ipsa ipsam commodi temporibus quaerat eligendi voluptas. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi, provident molestias nobis illo dolorem! Magni, fugit, illo nobis quae rem nihil quibusdam quidem mollitia deleniti impedit! Vero, commodi libero dolore!</p>
+</article><!-- intro -->
