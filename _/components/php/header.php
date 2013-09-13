@@ -8,28 +8,13 @@
 	<nav class="navbar">
 
 			<ul class="nav navbar-nav">
-				<li><a href="index.php">Home</a></li>
-				<li><a href="venuetravel.php">Venue/Travel</a></li>
-				<li><a href="schedule.php">Schedule</a></li>
-				<li class="dropdown">
-					<a href="#"class="dropdown-toggle" data-toggle="dropdown">Artists <b class="caret"></b></a>
-					<ul class="dropdown-menu" role="dropdown" aria-labelledby="dropdownMenu">
-						<li><a href="artists.php" tabindex="-1">All Artists</a></li>
-						<li class="divider"></li>
-						  <li><a tabindex="-1" href="artists.php#Barot_Bellingham">Barot Bellingham</a></li>
-						  <li><a tabindex="-1" href="artists.php#Gerard_Donahue">Gerard Donahue</a></li>
-						  <li><a tabindex="-1" href="artists.php#Jonathan_Ferrar">Jonathan Ferrar</a></li>
-						  <li><a tabindex="-1" href="artists.php#Lorenzo_Garcia">Lorenzo Garcia</a></li>
-						  <li><a tabindex="-1" href="artists.php#Hillary_Goldwynn">Hillary Goldwynn</a></li>
-						  <li><a tabindex="-1" href="artists.php#Hassum_Harrod">Hassum Harrod</a></li>
-						  <li><a tabindex="-1" href="artists.php#Jennifer_Jerome">Jennifer Jerome</a></li>
-						  <li><a tabindex="-1" href="artists.php#LaVonne_LaRue">LaVonne LaRue</a></li>
-						  <li><a tabindex="-1" href="artists.php#Riley_Rewington">Riley Rewington</a></li>
-						  <li><a tabindex="-1" href="artists.php#Constance_Smith">Constance Smith</a></li>
-						  <li><a tabindex="-1" href="artists.php#Xhou_Ta">Xhou Ta</a></li>
-						  <li><a tabindex="-1" href="artists.php#Richard_Tweed">Richard Tweed</a></li>
-					</ul>
-				<li><a href="register.php">Register</a></li>
+				<li><a href="index.php">Inicio</a></li>
+				<li><a href="acercade.php">Acerca de Tec Sur</a></li>
+				<li><a href="licenciatura.php">Licenciatura</a></li>
+				<li><a href="especialidad.php">Especialidad</a></li>
+				<li><a href="reposteria.php">Reposteria <b class="caret"></b></a>
+				<li><a href="educ_continua.php">Educación contiínua</a></li>
+				<li><a href="contacto.php">Contacto</a></li>
 			</ul><!-- navbar -->
 
 	</nav><!-- Nav -->

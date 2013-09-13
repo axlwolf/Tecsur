@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es-ES">
 	<head>
-		<title>Conferencia de la Academia Roux 2013  -- Home</title>
+		<title>TecSur Cuautla</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="author" content="Axel Lanuza">
 		<meta name="description" content="Uso de bootstrap 3">
@@ -21,7 +21,7 @@
 	<body id="home">
 
 		<section class="container">
-					
+
 				<div class="content row">
 			          <?php include "_/components/php/header.php"; ?>
 			          <?php include "_/components/php/carousel.php"; ?>
@@ -36,7 +36,7 @@
 						</section><!-- sidebar -->
 				</div><!-- content -->
 		    		<?php include "_/components/php/footer.php"; ?>
-		    		
+
 		</section><!-- container -->
 
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
